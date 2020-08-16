@@ -1,1 +1,0 @@
-textarea{border:none;border-bottom:1px solid #9e9e9e;outline:none;height:auto;min-height:150px;resize:none}textarea:focus{border-bottom:1px solid #26a69a;box-shadow:0 1px 0 0 #26a69a}textarea:focus~label{color:#26a69a}textarea.invalid{border-bottom:1px solid red;box-shadow:0 1px 0 0 red}textarea:focus.invalid~label{color:red}
